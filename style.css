@@ -5,3 +5,20 @@
 .container {
   max-width: 960px;
 }
+
+
+.col-4 {
+  background-color: #f8f9fa;
+  border: 1px solid #187fe6;
+  text-align: center;
+  padding: 15px;
+  overflow: hidden;
+}
+
+.col-md-4 {
+  background-color: #f8f9fa;
+  border: 1px solid #187fe6;
+  text-align: center;
+  padding: 15px;
+  overflow: hidden;
+}
