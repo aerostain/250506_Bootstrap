@@ -1,4 +1,4 @@
-# Pruebas Bootstrap
+# Aprendiendo Bootstrap
 
 Resumen
 
@@ -19,7 +19,7 @@ Resumen
 * `overflow: hidden;` usarlo dentro de cada div para que el texto no se desborde al hacer zoom.
 * `.row` siempre va dentro de `.container`.
 * `.row` usa flexbox por defecto, se puede usar `justify-content-center` y ` align-items-center`.
-* `col` no es flexbox.
+* `.col` no es flexbox.
 * No anidar `.row` directamente, usar `.col` y dentro `.row`.
 * 
 
